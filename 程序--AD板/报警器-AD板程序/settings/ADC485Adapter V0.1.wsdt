@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ADC485Adapter V0.1/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>151</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-12071-14537</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>ADC485Adapter V0.1</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-25029-29947</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>H:\02&#x96C6;&#x6210;&#x5F0F;&#x6D4B;&#x6F0F;&#x62A5;&#x8B66;&#x5668;\&#x3010;&#x8BBe;&#x8BA1;&#x3011;&#x4Fe1;&#x53F7;&#x8F6C;&#x6362;&#x677F;&#x8BBe;&#x8BA1;\&#x4Fe1;&#x53F7;&#x8F6C;&#x6362;&#x677F;&#x7A0B;&#x5e8F;\ADC485adapter\main.c</Filename><XPos>0</XPos><YPos>198</YPos><SelStart>4693</SelStart><SelEnd>4693</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>H:\02&#x96C6;&#x6210;&#x5F0F;&#x6D4B;&#x6F0F;&#x62A5;&#x8B66;&#x5668;\&#x3010;&#x8BBe;&#x8BA1;&#x3011;&#x4Fe1;&#x53F7;&#x8F6C;&#x6362;&#x677F;&#x8BBe;&#x8BA1;\&#x4Fe1;&#x53F7;&#x8F6C;&#x6362;&#x677F;&#x7A0B;&#x5e8F;\ADC485adapter\EEPROM.c</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>844</SelStart><SelEnd>844</SelEnd></Tab></Pane><Pane><Tab><Factory>TextEditor</Factory><Filename>H:\02&#x96C6;&#x6210;&#x5F0F;&#x6D4B;&#x6F0F;&#x62A5;&#x8B66;&#x5668;\&#x3010;&#x8D44;&#x6599;&#x3011;&#x53C2;&#x8003;&#x7A0B;&#x5e8F;\main - 5B.c</Filename><XPos>0</XPos><YPos>247</YPos><SelStart>6536</SelStart><SelEnd>6536</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>1</ActivePane><Sizes><Pane><X>483573</X><Y>1000000</Y></Pane><Pane><X>516426</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0032c5d0><key>iaridepm.enu1</key></Toolbar-0032c5d0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>755</Bottom><Right>225</Right><x>-2</x><y>-2</y><xscreen>-2788635</xscreen><yscreen>-1708254</yscreen><sizeHorzCX>-1452414062</sizeHorzCX><sizeHorzCY>-1711677354</sizeHorzCY><sizeVertCX>118229</sizeVertCX><sizeVertCY>758517</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>200</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>200401</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
