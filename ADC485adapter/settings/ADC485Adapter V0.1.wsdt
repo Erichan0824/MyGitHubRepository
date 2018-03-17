@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ADC485Adapter V0.1/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>414</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+    <TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-12071-14537</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>ADC485Adapter V0.1</ExpandedNode><ExpandedNode>ADC485Adapter V0.1/Output</ExpandedNode><ExpandedNode>ADC485Adapter V0.1/main.c</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-25029-29947</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><Pane><Tab><Factory>TextEditor</Factory><Filename>G:\&#x9879;&#x76ee; 01 &#x96C6;&#x6210;&#x6D4B;&#x6F0F;&#x6A21;&#x5757;\&#x63D0;&#x4F9B;&#x8D44;&#x6599;---&#x8DeF;&#x709C;&#x4e3D;\00 &#x7A0B;&#x5e8F;\ADC485adapter\main.c</Filename><XPos>0</XPos><YPos>153</YPos><SelStart>80</SelStart><SelEnd>83</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>1</ActivePane><Sizes><Pane><X>15022</X><Y>1000000</Y></Pane><Pane><X>984977</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00e2c4a8><key>iaridepm.enu1</key></Toolbar-00e2c4a8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>675</Bottom><Right>488</Right><x>-2</x><y>-2</y><xscreen>-3017214</xscreen><yscreen>-1652029</yscreen><sizeHorzCX>-2147483273</sizeHorzCX><sizeHorzCY>-1813423709</sizeHorzCY><sizeVertCX>348754</sizeVertCX><sizeVertCY>743139</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>191</Bottom><Right>1407</Right><x>-2</x><y>-2</y><xscreen>1409</xscreen><yscreen>193</yscreen><sizeHorzCX>1002847</sizeHorzCX><sizeHorzCY>211855</sizeHorzCY><sizeVertCX>215658</sizeVertCX><sizeVertCY>211855</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
